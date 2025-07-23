@@ -19,17 +19,9 @@ User-friendly interface makes starting the spam process easy.
 
 ---
 
-## Requirements
-
-- Python 3.7 or higher
-- PyQt5
-- pyperclip
-- pyautogui
-
----
-
 ## How to Run
 
 ```bash
-pip install PyQt5 pyperclip pyautogui
+git clone https://github.com/FurkanKokcu/Bruh-Force-Drug-Assistant.git
+pip install -r requirements.txt
 python main.py
